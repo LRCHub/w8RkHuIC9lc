@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "データスモッグの最中で",
+  "base_artist": "奏",
+  "createdAt": "2026-03-04T02:36:05.527624Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "データスモッグの最中で (feat. 星尘Infinity)",
+      "artist": "奏",
+      "has_synced": false,
+      "path": "select/pl_01_データスモッグの最中で_(feat._星尘Infinity)_奏.txt"
+    }
+  ]
+}
